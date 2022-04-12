@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import "./join.css";
-import logo from "../../images/logo.png";
 import { Link } from "react-router-dom";
 
  let user;
