@@ -14,7 +14,7 @@
 }
 
 .header{
-    background-color: crimson;
+    background-color: rgb(24, 15, 122);
     height: 15%;
    display: flex;
    align-items: center;
@@ -67,7 +67,7 @@
 
 
 .sendBtn{
-    background-color: crimson;
+    background-color: rgb(24, 15, 122);
     color: white;
     border: none;
     width: 21%;
